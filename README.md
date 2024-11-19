@@ -11,8 +11,6 @@ This project is a machine learning application built with FastAPI that automatic
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Business Problem
 
